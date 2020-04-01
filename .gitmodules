@@ -1,0 +1,7 @@
+[submodule "prosodylab-aligner"]
+    path = prosodylab-aligner
+    url = https://github.com/prosodylab/Prosodylab-Aligner
+
+[submodule "prosodylab-dicts"]
+    path = prosodylab-dicts
+    url = https://github.com/prosodylab/prosodylab.dictionaries.git
